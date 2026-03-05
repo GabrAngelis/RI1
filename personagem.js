@@ -58,3 +58,5 @@ function Batalha(p1, p2){
      for(let j = i + 1; j < personagens.length; j++)
          Batalha(personagens[i], personagens[j])
  }
+
+// TypeScript é legal!
